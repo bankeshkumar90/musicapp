@@ -79,8 +79,9 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 
-### Sample Screen-Shots
-![Screenshot_1717690488](https://github.com/bankeshkumar90/musicapp/assets/6511724/3df3fdfa-9ff6-4e7d-9a10-6e6fa8fa959f)
-![Screenshot_1717690198](https://github.com/bankeshkumar90/musicapp/assets/6511724/ff393e65-093c-4f14-aeda-b78e3825d903)
+### Sample Screen-Shots 
+
+![Screenshot_1717690488](https://github.com/bankeshkumar90/musicapp/assets/6511724/24de7af6-46cb-4167-a399-fcd95eee37dd)
+![Screenshot_1717690198](https://github.com/bankeshkumar90/musicapp/assets/6511724/56b1c4eb-978a-421a-8284-2a48a7e723d5)
 
 
