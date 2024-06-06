@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new Sample Music(Audio) Player App project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -80,8 +80,8 @@ To learn more about React Native, take a look at the following resources:
 
 
 ### Sample Screen-Shots 
+ ![Screenshot_1717690488](https://github.com/bankeshkumar90/musicapp/assets/6511724/ff2b70ec-646f-49b5-835f-3af6698397b6)
+![Screenshot 2024-06-06 at 10 16 37 PM](https://github.com/bankeshkumar90/musicapp/assets/6511724/8589f0e8-736d-4b79-bda0-6154eeec1a2d)
 
-![Screenshot_1717690488](https://github.com/bankeshkumar90/musicapp/assets/6511724/24de7af6-46cb-4167-a399-fcd95eee37dd)
-![Screenshot_1717690198](https://github.com/bankeshkumar90/musicapp/assets/6511724/56b1c4eb-978a-421a-8284-2a48a7e723d5)
 
 
