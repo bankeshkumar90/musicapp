@@ -80,8 +80,8 @@ To learn more about React Native, take a look at the following resources:
 
 
 ### Sample Screen-Shots 
- ![Screenshot_1717690488](https://github.com/bankeshkumar90/musicapp/assets/6511724/ff2b70ec-646f-49b5-835f-3af6698397b6)
 ![Screenshot 2024-06-06 at 10 16 37 PM](https://github.com/bankeshkumar90/musicapp/assets/6511724/8589f0e8-736d-4b79-bda0-6154eeec1a2d)
 
+![Screenshot_1717690488 (2)](https://github.com/bankeshkumar90/musicapp/assets/6511724/1c7b49fd-2bad-4114-bc31-c43fc3d39ce2)
 
 
